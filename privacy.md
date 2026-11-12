@@ -2,7 +2,7 @@
 Privacy Policy for Revizor
 
 Last Updated: November 12, 2026
-This Privacy Policy describes how [Bot Name] ("the Bot", "we", "us", or "our") collects, uses, and stores user data when you interact with the Bot on Discord. By inviting the Bot to your server or using its commands, you agree to the terms outlined in this policy.
+This Privacy Policy describes how Revizor ("the Bot", "we", "us", or "our") collects, uses, and stores user data when you interact with the Bot on Discord. By inviting the Bot to your server or using its commands, you agree to the terms outlined in this policy.
 
 1. Data We Collect
 
